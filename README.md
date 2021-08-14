@@ -16,6 +16,14 @@
     So that I can organize my task and keep track of them.
     
 ## Demo 
+    https://tika-note-taking-app.herokuapp.com/
+   ![startPage](https://user-images.githubusercontent.com/84317073/129445645-13f91b0a-b9aa-4172-a01a-712244ed3b16.JPG)
+   ![Note-entry](https://user-images.githubusercontent.com/84317073/129445647-8d2eb6ca-e660-41b3-9c66-24322a35aaa0.JPG)
+   ![Note -Delete](https://user-images.githubusercontent.com/84317073/129445648-75dffd05-2e2a-465f-91f6-ccbd5d45ef64.JPG)
+
+    
+    
+    
 
 ## How to use
     Clone this repository to use this application on local machine.
